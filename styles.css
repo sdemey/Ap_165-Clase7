@@ -1,0 +1,17 @@
+.chetoTtl {
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+color: blanchedalmond;
+    background-color: darkblue;
+    padding:16px ;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.center {
+    text-align: center;
+}
+.list{
+    background-color: rgb(218, 218, 49);
+    padding: 40px 20px;
+   
+}
